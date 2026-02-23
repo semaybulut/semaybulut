@@ -1,7 +1,7 @@
 # SEMA BULUT | Data Scientist 📊
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=180&section=header&text=Data%20Science%20&%20Engineering&fontSize=45&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=180&section=header&text=Data%20Science%20&%20Engineering&fontSize=45&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
@@ -34,8 +34,10 @@ I am a **Data Scientist** dedicated to building the bridge between raw data and 
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=semaybulut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaybulut&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=semaybulut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaybulut&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
