@@ -1,14 +1,18 @@
 # SEMA BULUT | Data Scientist 📊
 
-<p align="left">
+<p align="center">
+ 
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/semaybulut/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_Me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/semaybulut">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="mailto:semaybulut@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
 
@@ -29,10 +33,10 @@ I am a **Data Scientist** dedicated to building the bridge between raw data and 
 ---
 
 ### 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=semaybulut&show_icons=true&theme=tokyonight" alt="Sema's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaybulut&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=semaybulut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaybulut&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
