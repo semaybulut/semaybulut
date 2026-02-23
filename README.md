@@ -47,13 +47,6 @@ My foundation is a unique blend of:
 
 ---
 
-### 📈 GitHub Statistics
-
-![Sema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=semaybulut&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semaybulut&layout=compact&theme=tokyonight)
----
-
 ### 📁 Selected Projects
 * **End-to-End ML:** Validated models from raw data to delivery-ready outputs.
 * **Customer Analytics:** Market Basket Analysis, Segmentation, and Recommendation Systems.
