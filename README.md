@@ -32,14 +32,6 @@ I am a **Data Scientist** dedicated to building the bridge between raw data and 
 
 ---
 
-### 📊 GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=semaybulut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaybulut&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 💼 Professional Collaboration
 - 🏗️ Currently focusing on scalable AI-driven infrastructures and **axonodeai**.
 - 🧪 Actively exploring advanced Deep Learning patterns and Data Engineering workflows.
