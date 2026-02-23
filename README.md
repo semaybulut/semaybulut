@@ -1,19 +1,11 @@
 # SEMA BULUT | Data Scientist 📊
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=180&section=header&text=Data%20Science%20&%20Engineering&fontSize=45&animation=fadeIn" alt="Header" />
-</p>
+![Header](https://capsule-render.vercel.app/render?type=waving&color=007ACC&height=180&section=header&text=Data%20Science%20&%20Engineering&fontSize=45&animation=fadeIn)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/semaybulut/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_Me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/semaybulut">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-  <a href="mailto:semaybulut@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/semaybulut/"><img src="https://img.shields.io/badge/LinkedIn-Connect_Me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://github.com/semaybulut"><img src="https://img.shields.io/badge/GitHub-Follow_Me-black?style=for-the-badge&logo=github" alt="GitHub"></a>
+  <a href="mailto:semaybulut@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
 ### 🚀 About
@@ -33,12 +25,10 @@ I am a **Data Scientist** dedicated to building the bridge between raw data and 
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=semaybulut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaybulut&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=semaybulut&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semaybulut&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
