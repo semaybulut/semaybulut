@@ -48,11 +48,10 @@ My foundation is a unique blend of:
 ---
 
 ### 📈 GitHub Statistics
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=semaybulut&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=semaybulut&layout=compact&theme=tokyonight" alt="Langs" />
-</p>
 
+![Sema's GitHub Stats](https://github-readme-stats.vercel.app/api?username=semaybulut&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=semaybulut&layout=compact&theme=tokyonight)
 ---
 
 ### 📁 Selected Projects
